@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Saket!
+I am a CAD and robot enthusiast which has led me on my programming ventures! 
+Look at my team's repositories and projects (@FTC-23511) that I am most likely contributing to see what I am up to!
+Feel free to contact me at @featurescript on Discord.
 
 <!--
 **featurescript/featurescript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
