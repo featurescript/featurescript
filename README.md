@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Saket!
-I am a CAD and robot enthusiast which has led me on my programming ventures! 
-Look at my team's repositories and projects (@FTC-23511) that I am most likely contributing to see what I am up to!
+I am a CAD and robot enthusiast that participates in the FIRST Tech Challenge which has led me on my programming ventures.
 Feel free to contact me at @featurescript on Discord.
 
 <!--
